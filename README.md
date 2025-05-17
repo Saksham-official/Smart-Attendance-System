@@ -19,7 +19,7 @@ The system leverages face recognition for automated attendance marking and secur
 - Cloud Services: Firebase / AWS / Google Cloud for data storage
 - Database Management: SQL / NoSQL (MongoDB, PostgreSQL, etc.)
 
-⚙️ How It Works
+⚙️ How It Works : 
 1️⃣ Face Registration: Users enroll by submitting images, creating a facial dataset.
 2️⃣ Face Detection & Recognition: The system captures live images and matches them with stored records using OpenCV.
 3️⃣ Attendance Logging: If recognized, the system marks attendance with a timestamp.
